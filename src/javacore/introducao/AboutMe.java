@@ -1,9 +1,6 @@
 public class AboutMe {
     public static void main(String[] args) {
-        if ((10>15) < 20){
-            System.out.println("Verdade");
-        }
-
+        
         
 //        String nome = args [0];
 //        String sobrenome = args[1];

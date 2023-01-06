@@ -13,6 +13,7 @@ public class MinhaClasse {
         String sobrenome = scanner.next();
         System.out.println("Digite sua idade");
         int idade = scanner.nextInt();
+        
 
         System.out.println("Altura: "+altura);
         System.out.println("Nome: "+nome);
