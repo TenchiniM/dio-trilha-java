@@ -1,6 +1,6 @@
 package javacore.metodos.test;
 
-import javacore.metodos.Classes.Calculadora;
+import javacore.metodos.classes.Calculadora;
 
 import java.util.Scanner;
 
